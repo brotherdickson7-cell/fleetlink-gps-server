@@ -1,0 +1,12 @@
+{
+  "name": "fleetlink-gps-server",
+  "version": "1.0.0",
+  "description": "ZOESON FleetLink GPS Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
